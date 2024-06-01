@@ -35,7 +35,8 @@ namespace Login2
         private void LoadUserData()
         {
             // Contar la cantidad de usuarios activos en la base de datos
-           string connectionString = "Server=127.0.0.1;Port=3306;Database=App;Uid=root;Pwd=1234;";
+
+            string connectionString = "Server=127.0.0.1;Port=3306;Database=App;Uid=root;Pwd=1234;";
             using (MySqlConnection connection = new MySqlConnection(connectionString))
             {
                 string query = "SELECT COUNT(*) FROM Usuarios WHERE Estado = 'activo'";
@@ -56,6 +57,7 @@ namespace Login2
         private void LoadLlantasData()
         {
             // Sumar la cantidad de llantas en la base de datos
+
             string connectionString = "Server=127.0.0.1;Port=3306;Database=App;Uid=root;Pwd=1234;";
             using (MySqlConnection connection = new MySqlConnection(connectionString))
             {
@@ -84,6 +86,7 @@ namespace Login2
         private void LoadOrdenesData()
         {
             // Contar la cantidad de ventas completadas en la base de datos
+
             string connectionString = "Server=127.0.0.1;Port=3306;Database=App;Uid=root;Pwd=1234;";
             using (MySqlConnection connection = new MySqlConnection(connectionString))
             {
@@ -130,6 +133,18 @@ namespace Login2
             }
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            TLlantas ir = new TLlantas();
+            ir.Show();
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            TUsuarios ir = new TUsuarios();
+            ir.Show(); 
+        }
     }
+
 }
