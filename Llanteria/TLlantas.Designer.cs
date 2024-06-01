@@ -30,15 +30,18 @@
         {
             dataGridView1 = new DataGridView();
             label1 = new Label();
+            label2 = new Label();
+            textBoxMarca = new TextBox();
+            buttonBuscar = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(138, 152);
+            dataGridView1.Location = new Point(290, 137);
             dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(643, 279);
+            dataGridView1.Size = new Size(643, 335);
             dataGridView1.TabIndex = 0;
             // 
             // label1
@@ -51,11 +54,40 @@
             label1.TabIndex = 1;
             label1.Text = "Información de Llantas ";
             // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(51, 203);
+            label2.Name = "label2";
+            label2.Size = new Size(165, 15);
+            label2.TabIndex = 2;
+            label2.Text = "Ingrese el nombre por marca: ";
+            // 
+            // textBoxMarca
+            // 
+            textBoxMarca.Location = new Point(51, 230);
+            textBoxMarca.Name = "textBoxMarca";
+            textBoxMarca.Size = new Size(179, 23);
+            textBoxMarca.TabIndex = 3;
+            // 
+            // buttonBuscar
+            // 
+            buttonBuscar.Location = new Point(66, 315);
+            buttonBuscar.Name = "buttonBuscar";
+            buttonBuscar.Size = new Size(141, 23);
+            buttonBuscar.TabIndex = 4;
+            buttonBuscar.Text = "Buscar por marca";
+            buttonBuscar.UseVisualStyleBackColor = true;
+            buttonBuscar.Click += buttonBuscar_Click;
+            // 
             // TLlantas
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(935, 498);
+            ClientSize = new Size(972, 503);
+            Controls.Add(buttonBuscar);
+            Controls.Add(textBoxMarca);
+            Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(dataGridView1);
             Name = "TLlantas";
@@ -70,5 +102,8 @@
 
         private DataGridView dataGridView1;
         private Label label1;
+        private Label label2;
+        private TextBox textBoxMarca;
+        private Button buttonBuscar;
     }
 }

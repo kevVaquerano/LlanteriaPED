@@ -20,17 +20,47 @@ namespace Login2
 
         private void TLlantas_Load(object sender, EventArgs e)
         {
+            CargarDatos("");
+        }
+
+        private void buttonBuscar_Click(object sender, EventArgs e)
+        {
+            // Obtener el texto ingresado en el TextBox
+            string marca = textBoxMarca.Text.Trim();
+            CargarDatos(marca);
+        }
+
+        private void CargarDatos(string marca)
+        {
             string connectionString = "Server=127.0.0.1;Port=3306;Database=App;Uid=root;Pwd=1234;";
             using (MySqlConnection connection = new MySqlConnection(connectionString))
             {
-                String consulta = "select * from Llantas";
+                string consulta;
+
+                // Si se especifica una marca, agrega la cláusula WHERE
+                if (!string.IsNullOrEmpty(marca))
+                {
+                    consulta = "SELECT * FROM Llantas WHERE Marca = @marca";
+                }
+                else
+                {
+                    consulta = "SELECT * FROM Llantas";
+                }
+
                 MySqlDataAdapter adaptador = new MySqlDataAdapter(consulta, connection);
-                connection.Open();
+
+                // Si se especifica una marca, agrega el parámetro
+                if (!string.IsNullOrEmpty(marca))
+                {
+                    adaptador.SelectCommand.Parameters.AddWithValue("@marca", marca);
+                }
+
                 DataTable dt = new DataTable();
+                connection.Open();
                 adaptador.Fill(dt);
                 dataGridView1.DataSource = dt;
-
             }
+
         }
     }
 }
