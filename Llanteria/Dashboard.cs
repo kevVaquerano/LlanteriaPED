@@ -137,8 +137,14 @@ namespace Login2
         {
             TLlantas ir = new TLlantas();
             ir.Show();
-           
-           }
+
         }
-    
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            TUsuarios ir = new TUsuarios();
+            ir.Show(); 
+        }
+    }
+
 }
