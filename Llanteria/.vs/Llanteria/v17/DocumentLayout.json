@@ -6,7 +6,31 @@
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< Updated upstream
       "DocumentGroups": []
+=======
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TLlantas.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\TLlantas.cs",
+              "RelativeDocumentMoniker": "TLlantas.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\TLlantas.cs",
+              "RelativeToolTip": "TLlantas.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:26:58.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+>>>>>>> Stashed changes
     }
   ]
 }
