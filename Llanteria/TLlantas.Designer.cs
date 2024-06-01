@@ -28,19 +28,47 @@
         /// </summary>
         private void InitializeComponent()
         {
+            dataGridView1 = new DataGridView();
+            label1 = new Label();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
+            // 
+            // dataGridView1
+            // 
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(138, 152);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.Size = new Size(643, 279);
+            dataGridView1.TabIndex = 0;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI Historic", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(338, 26);
+            label1.Name = "label1";
+            label1.Size = new Size(254, 30);
+            label1.TabIndex = 1;
+            label1.Text = "Información de Llantas ";
             // 
             // TLlantas
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(935, 498);
+            Controls.Add(label1);
+            Controls.Add(dataGridView1);
             Name = "TLlantas";
             Text = "TLlantas";
             Load += TLlantas_Load;
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private DataGridView dataGridView1;
+        private Label label1;
     }
 }

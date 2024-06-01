@@ -137,7 +137,8 @@ namespace Login2
         {
             TLlantas ir = new TLlantas();
             ir.Show();
-            this.Hide();    
+           
+           }
         }
-    }
+    
 }
