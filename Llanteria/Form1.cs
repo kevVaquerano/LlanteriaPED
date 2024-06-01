@@ -18,7 +18,7 @@ namespace Login2
             }
 
             // Conexión a MySQL
-            string connectionString = "Server=127.0.0.1;Port=3306;Database=App;Uid=funbon;Pwd=root;";
+            string connectionString = "Server=127.0.0.1;Port=3306;Database=App;Uid=root;Pwd=1234;";
 
             using (MySqlConnection connection = new MySqlConnection(connectionString))
             {
@@ -53,5 +53,9 @@ namespace Login2
             }
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
