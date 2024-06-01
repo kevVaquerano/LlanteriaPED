@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:tusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|c:\\users\\kevin\\onedrive\\documentos\\github\\llanteriaped\\llanteria\\tusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\tusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:tusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:tllantas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|c:\\users\\kevin\\onedrive\\documentos\\github\\llanteriaped\\llanteria\\tllantas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\tllantas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:tllantas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "TUsuarios.cs",
               "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\TUsuarios.cs",
               "RelativeToolTip": "TUsuarios.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAnwBcAAAAFAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwBYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T17:52:55.35Z",
               "EditorCaption": ""
@@ -103,8 +103,7 @@
               "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\TLlantas.cs [Dise\u00F1o]",
               "RelativeToolTip": "TLlantas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T17:05:44.621Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-01T17:05:44.621Z"
             },
             {
               "$type": "Document",
@@ -116,8 +115,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T16:28:48.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T16:28:48.1Z"
             },
             {
               "$type": "Document",
@@ -141,8 +139,7 @@
               "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T11:33:32.421Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-01T11:33:32.421Z"
             },
             {
               "$type": "Document",
@@ -153,8 +150,7 @@
               "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Dashboard.cs [Dise\u00F1o]",
               "RelativeToolTip": "Dashboard.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T11:15:24.843Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-01T11:15:24.843Z"
             },
             {
               "$type": "Document",
@@ -166,8 +162,7 @@
               "RelativeToolTip": "Dashboard.cs",
               "ViewState": "AQIAAHwAAAAAAAAAAAApwJEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T11:00:44.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T11:00:44.003Z"
             },
             {
               "$type": "Document",
@@ -179,8 +174,7 @@
               "RelativeToolTip": "TLlantas.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T17:29:25.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T17:29:25.388Z"
             },
             {
               "$type": "Document",
@@ -192,8 +186,7 @@
               "RelativeToolTip": "Dashboard.Designer.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAYwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T11:15:14.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T11:15:14.642Z"
             }
           ]
         }
