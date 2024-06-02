@@ -1,0 +1,77 @@
+CREATE DATABASE IF NOT EXISTS App;
+
+USE App;
+
+CREATE TABLE IF NOT EXISTS Llantas (
+    Id INT PRIMARY KEY AUTO_INCREMENT,
+    Marca VARCHAR(100),
+    Rin INT,
+    Perfil VARCHAR(15),
+    Precio FLOAT,
+    Cantidad INT
+);
+
+CREATE TABLE IF NOT EXISTS Usuarios (
+    Id INT PRIMARY KEY AUTO_INCREMENT,
+    NombreUsuario VARCHAR(100),
+    Rol VARCHAR(15),
+    Password VARCHAR(15),
+    Estado VARCHAR(25)
+);
+
+CREATE TABLE IF NOT EXISTS Ventas (
+    ID_Venta INT PRIMARY KEY AUTO_INCREMENT, 
+    ID_Cliente INT,
+    Fecha_Venta DATE,
+    Total_Venta FLOAT,
+    Estado VARCHAR(15)
+);
+
+CREATE TABLE IF NOT EXISTS Detalle_Ventas (
+    ID_Detalle INT PRIMARY KEY AUTO_INCREMENT,
+    ID_Venta INT,
+    ID_Llanta INT,
+    Cantidad INT,
+    Precio_Unitario FLOAT,
+    Subtotal FLOAT,
+    FOREIGN KEY (ID_Venta) REFERENCES Ventas(ID_Venta),
+    FOREIGN KEY (ID_Llanta) REFERENCES Llantas(Id)
+);
+
+CREATE TABLE IF NOT EXISTS Proveedores (
+    Id INT PRIMARY KEY AUTO_INCREMENT,
+    Nombre VARCHAR(255),
+    Telefono VARCHAR(10),
+    Correo VARCHAR(100)
+);
+
+-- Insert data into Llantas
+INSERT INTO Llantas (Marca, Rin, Perfil, Precio, Cantidad) VALUES
+('Michelin', 17, '55', 120.50, 10),
+('Pirelli', 18, '60', 150.75, 15),
+('Goodyear', 16, '50', 100.00, 20);
+
+-- Insert data into Usuarios
+INSERT INTO Usuarios (NombreUsuario, Rol, Password, Estado) VALUES
+('jdoe', 'admin', 'password123', 'activo'),
+('asmith', 'user', 'password456', 'inactivo'),
+('mjones', 'user', 'password789', 'activo');
+
+-- Insert data into Ventas
+INSERT INTO Ventas (ID_Cliente, Fecha_Venta, Total_Venta, Estado) VALUES
+(1, '2024-05-28', 301.50, 'completada'),
+(2, '2024-05-27', 150.75, 'pendiente'),
+(3, '2024-05-26', 120.50, 'cancelada');
+
+-- Insert data into Detalle_Ventas
+INSERT INTO Detalle_Ventas (ID_Venta, ID_Llanta, Cantidad, Precio_Unitario, Subtotal) VALUES
+(1, 1, 2, 120.50, 241.00),
+(1, 2, 1, 60.50, 60.50),
+(2, 3, 1, 100.00, 100.00),
+(3, 1, 1, 120.50, 120.50);
+
+-- Insert data into Proveedores
+INSERT INTO Proveedores (Nombre, Telefono, Correo) VALUES
+('Proveedor1', '1234567890', 'proveedor1@example.com'),
+('Proveedor2', '0987654321', 'proveedor2@example.com'),
+('Proveedor3', '5555555555', 'proveedor3@example.com');

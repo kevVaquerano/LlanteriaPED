@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|c:\\users\\kevin\\onedrive\\documentos\\github\\llanteriaped\\llanteria\\llanteria\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|c:\\users\\kevin\\onedrive\\documentos\\github\\llanteriaped\\llanteria\\llanteria\\formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|c:\\users\\kevin\\onedrive\\documentos\\github\\llanteriaped\\llanteria\\llanteria\\formadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:formadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|c:\\users\\kevin\\onedrive\\documentos\\github\\llanteriaped\\llanteria\\llanteria\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|c:\\users\\kevin\\onedrive\\documentos\\github\\llanteriaped\\llanteria\\llanteria\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|c:\\users\\kevin\\onedrive\\documentos\\github\\llanteriaped\\llanteria\\llanteria\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|c:\\users\\kevin\\onedrive\\documentos\\github\\llanteriaped\\llanteria\\llanteria\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|c:\\users\\kevin\\onedrive\\documentos\\github\\llanteriaped\\llanteria\\llanteria\\tllantas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:tllantas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|c:\\users\\kevin\\onedrive\\documentos\\github\\llanteriaped\\llanteria\\llanteria\\tusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:tusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\tusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:tusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|c:\\users\\kevin\\onedrive\\documentos\\github\\llanteriaped\\llanteria\\llanteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\tllantas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C36E5F6B-23D9-47BA-B0E5-033295A5811D}|Login2.csproj|solutionrelative:tllantas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Carlos Alas\\Documents\\LlanteriaPED-Finish con ventas\\LlanteriaPED-FinishVersion2\\LlanteriaPED-Finish\\Llanteria\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Carlos Alas\\Documents\\LlanteriaPED-Finish con ventas\\LlanteriaPED-FinishVersion2\\LlanteriaPED-Finish\\Llanteria\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:16:51.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\Connection.cs",
+              "RelativeDocumentMoniker": "Connection.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\Connection.cs",
+              "RelativeToolTip": "Connection.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:01:47.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAgwJMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:49:15.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\Carlos Alas\\Documents\\LlanteriaPED-Finish con ventas\\LlanteriaPED-FinishVersion2\\LlanteriaPED-Finish\\Llanteria\\Dashboard.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Carlos Alas\\Documents\\LlanteriaPED-Finish con ventas\\LlanteriaPED-FinishVersion2\\LlanteriaPED-Finish\\Llanteria\\Dashboard.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:49:12.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormVentas.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\FormVentas.cs",
+              "RelativeDocumentMoniker": "FormVentas.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\FormVentas.cs",
+              "RelativeToolTip": "FormVentas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:47:09.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAdd.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\FormAdd.cs",
+              "RelativeDocumentMoniker": "FormAdd.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\FormAdd.cs",
+              "RelativeToolTip": "FormAdd.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwDkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:47:40.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormEdit.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\FormEdit.cs",
+              "RelativeDocumentMoniker": "FormEdit.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\FormEdit.cs",
+              "RelativeToolTip": "FormEdit.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAuwG0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T01:41:00.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAdd.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\FormAdd.Designer.cs",
+              "RelativeDocumentMoniker": "FormAdd.Designer.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\FormAdd.Designer.cs",
+              "RelativeToolTip": "FormAdd.Designer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:05:43.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBQAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:16:56.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAdd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\FormAdd.cs",
+              "RelativeDocumentMoniker": "FormAdd.cs",
+              "ToolTip": "C:\\Users\\Carlos Alas\\Documents\\LlanteriaPED-Finish con ventas\\LlanteriaPED-FinishVersion2\\LlanteriaPED-Finish\\Llanteria\\FormAdd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Carlos Alas\\Documents\\LlanteriaPED-Finish con ventas\\LlanteriaPED-FinishVersion2\\LlanteriaPED-Finish\\Llanteria\\FormAdd.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:47:17.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\TUsuarios.cs",
+              "RelativeDocumentMoniker": "TUsuarios.cs",
+              "ToolTip": "C:\\Users\\Carlos Alas\\Documents\\LlanteriaPED-Finish con ventas\\LlanteriaPED-FinishVersion2\\LlanteriaPED-Finish\\Llanteria\\TUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Carlos Alas\\Documents\\LlanteriaPED-Finish con ventas\\LlanteriaPED-FinishVersion2\\LlanteriaPED-Finish\\Llanteria\\TUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:44:12.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\Venta.cs",
+              "RelativeDocumentMoniker": "Venta.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\Venta.cs",
+              "RelativeToolTip": "Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:50:26.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\TUsuarios.cs",
+              "RelativeDocumentMoniker": "TUsuarios.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\TUsuarios.cs",
+              "RelativeToolTip": "TUsuarios.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCYAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:44:18.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TLlantas.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\TLlantas.cs",
+              "RelativeDocumentMoniker": "TLlantas.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\TLlantas.cs",
+              "RelativeToolTip": "TLlantas.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCIAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:44:36.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormEdit.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\FormEdit.cs",
+              "RelativeDocumentMoniker": "FormEdit.cs",
+              "ToolTip": "C:\\Users\\Carlos Alas\\Documents\\LlanteriaPED-Finish con ventas\\LlanteriaPED-FinishVersion2\\LlanteriaPED-Finish\\Llanteria\\FormEdit.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Carlos Alas\\Documents\\LlanteriaPED-Finish con ventas\\LlanteriaPED-FinishVersion2\\LlanteriaPED-Finish\\Llanteria\\FormEdit.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T01:51:50.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TLlantas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\LlanteriaPED\\Llanteria\\Llanteria\\TLlantas.cs",
+              "RelativeDocumentMoniker": "TLlantas.cs",
+              "ToolTip": "C:\\Users\\Carlos Alas\\Documents\\LlanteriaPED-Finish con ventas\\LlanteriaPED-FinishVersion2\\LlanteriaPED-Finish\\Llanteria\\TLlantas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Carlos Alas\\Documents\\LlanteriaPED-Finish con ventas\\LlanteriaPED-FinishVersion2\\LlanteriaPED-Finish\\Llanteria\\TLlantas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T01:10:44.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
